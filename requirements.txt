@@ -1,3 +1,5 @@
 opencv-python
 matplotlib
 numpy
+tensorflow
+keras_ocr
